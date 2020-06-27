@@ -3,7 +3,7 @@
   // Setting up our database connection
   $mysql_server = 'localhost';
   $mysql_username = 'admin_zibuu';
-  $mysql_password = '88m8hhUKQ8GguP3EEGhQX5RQ9Dsnc2';
+  $mysql_password = 'password';
   $mysql_database = 'admin_minecraft';
   // Should be left like this unless we've got a different port configured (DEFAULT: 3306)
   $mysql_port = '3306';
